@@ -1,0 +1,2 @@
+https://tauri.studio/docs/getting-started/prerequisites
+https://tauri.studio/
